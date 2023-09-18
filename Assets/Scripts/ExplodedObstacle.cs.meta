@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 527788fdf128fb646bae4d948f9eb70e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerMovement: {instanceID: 0}
+  - originalObstacle: {fileID: 7711074864960722635, guid: 235501e6ec888ef4e8c497275c331d5f, type: 3}
+  - explodedObstacle: {fileID: 6694127087882281825, guid: dfbd43f06c747f24c8464b4c14a2bd57, type: 3}
+  - explosionVFX: {instanceID: 0}
+  - _system: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
